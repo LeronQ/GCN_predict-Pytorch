@@ -33,8 +33,6 @@ Exploring data analysis:
 
 ​	3.Every node(detector) has three fetures,but two features data distribution are basically stationary, so we only take the first dimension features.
 
-​	![微信647](C:\Users\10189\Desktop\微信647.png)
-
 
 
 Read dataset:
