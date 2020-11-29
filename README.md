@@ -33,7 +33,7 @@ Exploring data analysis:
 
 ​	3.Every node(detector) has three fetures,but two features data distribution are basically stationary, so we only take the first dimension features.
 
-![1606617814776](C:\Users\10189\AppData\Roaming\Typora\typora-user-images\1606617814776.png)
+​	![微信647](C:\Users\10189\Desktop\微信647.png)
 
 
 
